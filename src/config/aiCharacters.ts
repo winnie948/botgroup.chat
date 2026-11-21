@@ -26,7 +26,8 @@ export const modelConfigs = [
     baseURL: "https://ark.cn-beijing.volces.com/api/v3"
   },
   {
-    model: "glm-4-air",
+    model: "glm-4.7-flash",
+
     apiKey: "GLM_API_KEY",
     baseURL: "https://open.bigmodel.cn/api/paas/v4/"
   },
